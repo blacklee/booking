@@ -1,7 +1,8 @@
 # Booking
 
-Ruby API to access https://distribution-xml.booking.com/, partial implementation.
+Ruby API to access https://distribution-xml.booking.com/.
 
+`My project do not use full API from Booking.com currently, so the implementation is partial.`
 
 ## Modules
 
@@ -27,3 +28,8 @@ namespace :gm do
   end
 end
 ``` 
+
+## Resources
+
+You can download Booking City data from http://api.goodappworks.com/system/booking/cities.sql.gz
+
