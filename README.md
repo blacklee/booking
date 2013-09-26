@@ -12,7 +12,7 @@ This gem provides 2 modules to use booking
 
 ## Usage
 
-Here is a code snappits from my Rails project:
+Here is a code snippets from my Rails project:
 
 ``` ruby
 namespace :gm do
